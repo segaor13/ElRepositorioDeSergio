@@ -4,4 +4,6 @@ git init -> Inicia el seguimiento en el directorio actual
 git commit -m Mensaje -> Crea un nuevo commit con título
 git add . -> Añade todos los archivos a la lista de seguimiento
 git status -> Muestra el status del seguimiento de los archivos
+git.checkout -b NombreDeBranch -> Crea un nuevo branch y se cambia al nuevo branch
+
 
